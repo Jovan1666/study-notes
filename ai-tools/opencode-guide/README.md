@@ -6,8 +6,6 @@
 
 ![OpenCode 核心运作与 OMO 多智能体协作流全景图](./assets/flowchart.png)
 
-![OpenCode 自动化工程开发指南 - 思维导图](./assets/architecture-mindmap.png)
-
 ---
 
 ## 目录
