@@ -57,7 +57,7 @@ Dify 中有两类工作流应用，选对类型能事半功倍。
 
 Workflow 支持通过「条件节点」实现分支逻辑，根据输入内容走向不同处理路径：
 
-![Dify 条件分支示例](../images/dify-workflow-condition-demo.png)
+![Dify 条件分支示例](./assets/dify-workflow-condition-demo.png)
 
 如图所示，系统根据「是否年满 18 岁」进行分支，对应不同的处理流程。
 
