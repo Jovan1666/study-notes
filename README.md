@@ -14,6 +14,7 @@
 | [OpenCode 全能开源 AI 编程利器 —— 综合指南](./ai-tools/opencode-guide/) | 从核心概念入门、AI 协作实战、到企业级安全部署的一站式进阶蓝图 | 2026-02 |
 | [从零搞懂 RAG：一份写给自己的学习笔记](./ai-tools/rag-guide/) | 不靠 AI 瞎猜，先找资料再作答——RAG 设计思路、完整代码实现与 Dify 实战预告 | 2026-03 |
 | [Dify 低代码 AI 应用开发](./ai-tools/dify/) | 开源 LLM 应用编排平台，包含工作流设计方法论与模板实践 | 2026-03 |
+| [AI 编程工具使用体验 —— 从实习小白到多工具协同](./ai-tools/coding-tools-journey/) | Cursor、Windsurf、Kiro、Warp、Claude Code、Codex 等工具的真实使用感受与选型演变 | 2026-03 |
 
 ---
 

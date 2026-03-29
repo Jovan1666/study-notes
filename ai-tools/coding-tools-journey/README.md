@@ -18,6 +18,7 @@
 | [二、深度使用：IDE 续与插件](./02_深度使用-IDE续与插件.md) | Cursor 深度使用、CodeBuddy、Antigravity、Augment、Cline，以及告别订阅制 IDE 的原因 |
 | [三、转向原生 Agent 工具](./03_转向原生Agent工具.md) | Claude Code、OpenCode |
 | [四、Codex 与当前工作模式](./04_Codex与当前工作模式.md) | Codex 桌面端深度使用、现在的 VSCode + 插件协同模式 |
+| [附：原始口述记录](./05_原始口述记录.md) | 作者未经润色的原始口述内容，保留最真实的第一手体验感受 |
 
 ---
 
