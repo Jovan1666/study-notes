@@ -16,6 +16,7 @@
 | [Dify 低代码 AI 应用开发](./ai-tools/dify/) | 开源 LLM 应用编排平台，包含工作流设计方法论与模板实践 | 2026-03 |
 | [AI 编程工具使用体验 —— 从实习小白到多工具协同](./ai-tools/coding-tools-journey/) | Cursor、Windsurf、Kiro、Warp、Claude Code、Codex 等工具的真实使用感受与选型演变 | 2026-03 |
 | [大模型怎么选？—— 一个真实用户的梯队排名](./ai-tools/ai-model-selection/) | 不看跑分，看实际干活表现——Claude Opus、GPT-5.4、Gemini、GLM-5、Kimi 等模型的主观梯队排名 | 2026-03 |
+| [大模型面试专题：八股与检索](./ai-tools/llm-interview/) | 秋招准备的 LLM 面试笔记——RAG 全链路、向量检索原理、四种进阶 RAG，每点都讲清"为什么这么做" | 2026-09 |
 
 ---
 
